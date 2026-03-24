@@ -7,7 +7,7 @@ The system includes data preprocessing, feature engineering, model training, mod
 
 ## 🌐 Live Application
 
-🔗 Try the dashboard here:
+🔗 Try the dashboard here: https://futureml01.streamlit.app/
 
 
 ## 📌 Project Overview
