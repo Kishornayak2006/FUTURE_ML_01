@@ -225,7 +225,8 @@ Possible improvements for the system:
 
 ### Kishor C
 
-Machine Learning & AI Enthusiast
+CSE-AI & ML student | Python & C Programmer | Kali Linux & Cybersecurity Enthusiast 🐧💻
+
 
 ### GitHub
 https://github.com/Kishornayak2006
